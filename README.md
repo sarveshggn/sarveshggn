@@ -4,8 +4,9 @@
 <hr>
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-readme2.sarveshggn.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/0zqnffeknqc9qjkw0q2fgd7y0)
-
+[<img src="https://novatorem.sarveshggn.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/0zqnffeknqc9qjkw0q2fgd7y0)
+<!-- [![Spotify](https://0zqnffeknqc9qjkw0q2fgd7y0.vercel.app/api/spotify)](https://open.spotify.com/user/0zqnffeknqc9qjkw0q2fgd7y0)
+-->
 ### Socials:
 
 [<img align="left" alt="sarveshjoshiportfoliosite" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
