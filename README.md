@@ -2,11 +2,15 @@
 ### General Kenobi!!
 
 <hr>
-***Socials***
+### Socials
+
 [<img align="left" alt="sarveshjoshiportfoliosite" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="sarveshjoshi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="sarveshjoshi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="sarveshjoshi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+<br />
+<br />
 
 [website]: http://sarveshjoshi1.pythonanywhere.com/
 [twitter]: https://twitter.com/emperorofarkham
