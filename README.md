@@ -10,6 +10,7 @@
 [<img align="left" alt="sarveshjoshi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="sarveshjoshi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="sarveshjoshi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
+[<img align="left" alt="sarveshjoshi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
 
 <br />
 <br />
@@ -19,6 +20,7 @@
 [instagram]: https://www.instagram.com/_sarveshjoshi__/
 [linkedin]: https://www.linkedin.com/in/sarvesh-joshi/
 [steam]: https://steamcommunity.com/id/sarveshggn/
+[spotify]: https://open.spotify.com/user/0zqnffeknqc9qjkw0q2fgd7y0
 
 <!-- ![Obi Wan Kenobi](https://i.redd.it/8hkekbti9a221.jpg) -->
 <!--
