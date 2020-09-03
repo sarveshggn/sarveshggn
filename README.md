@@ -9,6 +9,7 @@
 [<img align="left" alt="sarveshjoshi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="sarveshjoshi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="sarveshjoshi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="sarveshjoshi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
 
 <br />
 <br />
@@ -17,7 +18,7 @@
 [twitter]: https://twitter.com/emperorofarkham
 [instagram]: https://www.instagram.com/_sarveshjoshi__/
 [linkedin]: https://www.linkedin.com/in/sarvesh-joshi/
-
+[steam]: https://steamcommunity.com/id/sarveshggn/
 
 <!-- ![Obi Wan Kenobi](https://i.redd.it/8hkekbti9a221.jpg) -->
 <!--
