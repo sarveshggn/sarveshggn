@@ -26,7 +26,6 @@
 [linkedin]: https://www.linkedin.com/in/sarvesh-joshi/
 [steam]: https://steamcommunity.com/id/sarveshggn/
 [spotify]: https://open.spotify.com/user/0zqnffeknqc9qjkw0q2fgd7y0
-
 <!-- ![Obi Wan Kenobi](https://i.redd.it/8hkekbti9a221.jpg) -->
 <!--
 **sarveshggn/sarveshggn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,7 +37,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on: Data Science, Django
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about:  Star Wars, Harry Potter, Football
-- 📫 How to reach me: Links are under [Socials]()
+- 📫 How to reach me: Links are under [Socials](https://github.com/sarveshggn/sarveshggn#socials)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Good relations with the Wookiees, I have. 
 -->
