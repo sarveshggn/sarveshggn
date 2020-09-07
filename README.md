@@ -11,6 +11,7 @@
 
 <hr>
 -->
+
 ### Spotify Playing 🎧
 <!-- [<img src="https://novatorem.sarveshggn.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/0zqnffeknqc9qjkw0q2fgd7y0)
 -->
