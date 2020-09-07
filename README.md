@@ -3,6 +3,14 @@
 
 <hr>
 
+- 🌱 I’m currently learning: Machine Learning/ Deep Learning 
+- 👯 I’m looking to collaborate on: Data Science, Django
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about:  Star Wars, Harry Potter, Football
+- 📫 How to reach me: Links are under [Socials](https://github.com/sarveshggn/sarveshggn#socials)
+
+<hr>
+
 ### Spotify Playing 🎧
 <!-- [<img src="https://novatorem.sarveshggn.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/0zqnffeknqc9qjkw0q2fgd7y0)
 -->
