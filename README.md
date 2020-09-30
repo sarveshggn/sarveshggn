@@ -17,6 +17,7 @@
 -->
 [![Spotify](https://novatorem.sarveshggn.vercel.app/api/spotify)](https://open.spotify.com/user/0zqnffeknqc9qjkw0q2fgd7y0)
 
+<hr>
 ### Socials:
 
 [<img align="left" alt="sarveshjoshiportfoliosite" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
