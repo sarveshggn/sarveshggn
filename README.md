@@ -22,12 +22,20 @@
 
 ### Socials:
 
-[<img align="left" alt="sarveshjoshi | portfoliosite" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!-- [<img align="left" alt="sarveshjoshi | portfoliosite" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="sarveshjoshi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="sarveshjoshi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="sarveshjoshi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="sarveshjoshi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
-[<img align="left" alt="sarveshjoshi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
+[<img align="left" alt="sarveshjoshi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify] -->
+
+[<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="sarveshjoshi | portfoliosite" width="22px" style="filter: brightness(0) invert(1);">][website]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="sarveshjoshi | LinkedIn" width="22px" style="filter: brightness(0) invert(1);">][linkedin]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="sarveshjoshi | Instagram" width="22px" style="filter: brightness(0) invert(1);">][instagram]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="sarveshjoshi | Twitter" width="22px" style="filter: brightness(0) invert(1);">][twitter]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" alt="sarveshjoshi | Steam" width="22px" style="filter: brightness(0) invert(1);">][steam]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" alt="sarveshjoshi | Spotify" width="22px" style="filter: brightness(0) invert(1);">][spotify]
+
 
 <br />
 <br />
