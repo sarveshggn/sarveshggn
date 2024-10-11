@@ -22,20 +22,20 @@
 
 ### Socials:
 
-<!-- [<img align="left" alt="sarveshjoshi | portfoliosite" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="sarveshjoshi | portfoliosite" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="sarveshjoshi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="sarveshjoshi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="sarveshjoshi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="sarveshjoshi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
-[<img align="left" alt="sarveshjoshi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify] -->
+[<img align="left" alt="sarveshjoshi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify] 
 
-[<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="sarveshjoshi | portfoliosite" width="22px" style="filter: invert(1); filter: invert(100%); filter: brightness(0) saturate(100%) invert(0) sepia(0) saturate(10000%) hue-rotate(0deg) brightness(100%) contrast(100%);">][website]
+<!-- [<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="sarveshjoshi | portfoliosite" width="22px" style="filter: invert(1); filter: invert(100%); filter: brightness(0) saturate(100%) invert(0) sepia(0) saturate(10000%) hue-rotate(0deg) brightness(100%) contrast(100%);">][website]
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="sarveshjoshi | LinkedIn" width="22px" style="filter: invert(1); filter: invert(100%); filter: brightness(0) saturate(100%) invert(0) sepia(0) saturate(10000%) hue-rotate(0deg) brightness(100%) contrast(100%);">][linkedin]
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="sarveshjoshi | Instagram" width="22px" style="filter: invert(1); filter: invert(100%); filter: brightness(0) saturate(100%) invert(0) sepia(0) saturate(10000%) hue-rotate(0deg) brightness(100%) contrast(100%);">][instagram]
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="sarveshjoshi | Twitter" width="22px" style="filter: invert(1); filter: invert(100%); filter: brightness(0) saturate(100%) invert(0) sepia(0) saturate(10000%) hue-rotate(0deg) brightness(100%) contrast(100%);">][twitter]
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" alt="sarveshjoshi | Steam" width="22px" style="filter: invert(1); filter: invert(100%); filter: brightness(0) saturate(100%) invert(0) sepia(0) saturate(10000%) hue-rotate(0deg) brightness(100%) contrast(100%);">][steam]
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" alt="sarveshjoshi | Spotify" width="22px" style="filter: invert(1); filter: invert(100%); filter: brightness(0) saturate(100%) invert(0) sepia(0) saturate(10000%) hue-rotate(0deg) brightness(100%) contrast(100%);">][spotify]
-
+-->
 
 <br />
 <br />
